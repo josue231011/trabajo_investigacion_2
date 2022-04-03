@@ -1,5 +1,5 @@
-# trabajo_investigacion_2
+# trabajo_investigacion_2 Grupo:03T DSM
 
-Documento MVC VS MVP
+- Documento MVC VS MVP
 
-EJEMPLO MVP
+- EJEMPLO MVP
