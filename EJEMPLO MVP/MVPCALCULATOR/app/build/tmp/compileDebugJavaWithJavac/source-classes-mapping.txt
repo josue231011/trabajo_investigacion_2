@@ -1,0 +1,13 @@
+com/aj/mvpcalculator/Interfaces/InterfacesMainActivity.java
+ com.aj.mvpcalculator.Interfaces.InterfacesMainActivity
+ com.aj.mvpcalculator.Interfaces.InterfacesMainActivity$Model
+ com.aj.mvpcalculator.Interfaces.InterfacesMainActivity$Presenter
+ com.aj.mvpcalculator.Interfaces.InterfacesMainActivity$View
+com/aj/mvpcalculator/Model/ModelMainActivity.java
+ com.aj.mvpcalculator.Model.ModelMainActivity
+com/aj/mvpcalculator/Presenter/PresenterMainActivity.java
+ com.aj.mvpcalculator.Presenter.PresenterMainActivity
+com/aj/mvpcalculator/BuildConfig.java
+ com.aj.mvpcalculator.BuildConfig
+com/aj/mvpcalculator/MainActivity.java
+ com.aj.mvpcalculator.MainActivity
